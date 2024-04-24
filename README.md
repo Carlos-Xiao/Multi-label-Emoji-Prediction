@@ -1,6 +1,6 @@
 # Multi-label Emoji Prediction for Tweet Texts
 
-The project is developing an emoji prediction model based on Tweet text content, offering benefits to both users and social platforms. The project extends beyond existing literature by employing a multi-label approach. Stacking with sub-sampling and the weighted loss function, the pre-trained BERT model has achieved a weighted F1 score of 0.43 and an average cosine similarity of 0.42 across a pre-defined set containing 30 distinct emojis (excluding sentiment ones).
+The project is developing an emoji prediction model based on Tweet text content, offering benefits to both users and social platforms. The project extends beyond existing literature by employing a multi-label approach. Stacking with sub-sampling and the weighted loss function, the pre-trained BERT model has achieved a weighted F1 score of 0.43 and an average cosine similarity of 0.42 across a pre-defined set containing 30 distinct emojis (excluding sentiments).
 
 ![Pre-defined Emoji Set](https://raw.githubusercontent.com/Carlos-Xiao/Multi-label-Emoji-Prediction/master/emoji_set.png)
 
